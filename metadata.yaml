@@ -1,0 +1,37 @@
+_repo: Breaking-Awayor-The-Fortunes-of-a-Student_22433
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Kilburn, Samuel Smith
+    alias: Kilburn, S. S. (Samuel Smith)
+    gutenberg_agent_id: '25332'
+    url: http://www.gutenberg.org/2009/agents/25332
+covers:
+- cover_type: archival
+  image_path: 22433-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Optic, Oliver
+    aliases:
+    - Adams, William T. (William Taylor)
+    - Adams, William Taylor
+    birthdate: 1822
+    deathdate: 1897
+    gutenberg_agent_id: '260'
+    url: http://www.gutenberg.org/2009/agents/260
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a5655
+description: ''
+gutenberg_bookshelf: Children's Fiction
+gutenberg_issued: '2007-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22433'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Students -- Juvenile fiction'
+title: Breaking Away; or, The Fortunes of a Student
+url: http://www.gutenberg.org/ebooks/22433
